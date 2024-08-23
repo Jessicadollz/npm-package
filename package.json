@@ -1,0 +1,22 @@
+{
+  "name": "jd-own-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Sum of Array",
+  "Clear Repeated Elements",
+  "Average of Array",
+  "Find Max",
+  "Find Min",
+  "Chunk Array",
+  "Flatten Array",
+  "Remove Falsy Values",
+  "Array Intersection",
+  "Array Difference"],
+  "author": "Jessica Dolly",
+  "license": "ISC",
+  "description": "Publishing own package of 10 functions."
+}
